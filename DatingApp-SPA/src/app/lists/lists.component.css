@@ -1,0 +1,14 @@
+.container {
+    display: inline;
+}
+
+.form-inline {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.row {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
